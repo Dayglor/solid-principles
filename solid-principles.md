@@ -1,5 +1,5 @@
 SOLID
-    O que significa Solid? 
+    O que significa SOLID? 
         S - Single Responsability Principle (SRP)
             (Principio da responsabilidade única)
             Uma classe deve possuir uma única razão para existir, no caso a classe deve ser focada em resolver apenas uma coisa.
