@@ -1,5 +1,5 @@
-SOLID
-    O que significa SOLID? 
+SOLID <br/>
+    O que significa SOLID? <br/>
         S - Single Responsability Principle (SRP)
             (Principio da responsabilidade única)
             Uma classe deve possuir uma única razão para existir, no caso a classe deve ser focada em resolver apenas uma coisa.
@@ -8,7 +8,7 @@ SOLID
             A ideia é manter a classe fechada para modificações mas aberta para implementações 
         
         L - Liskov Substitution Principle (LSP)
-            O princípio de substituição de Liskov diz que objetos podem ser substituidos por seus substipos sem que isso afete a execução correta do programa.
+            O princípio de substituição de Liskov diz que objetos podem ser substituidos por seus subtipos sem que isso afete a execução correta do programa.
 
         I - Interface Segregation Principle (ISP)
             Segregaçã de interface diz que interfaces específicas e com poucos métodos são melhores do que uma única interface de propósito geral.
