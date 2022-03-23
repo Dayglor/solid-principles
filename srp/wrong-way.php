@@ -2,16 +2,16 @@
 
 
 // multiple responsabilities
-class Carro { 
-    private function connection(){
+class Car { 
+    private function dbConnection(){
         //
     }
 
-    private function getById(){
+    private function getById($id){
         //
     }
 
-    private function configurePaymentPlan(){
+    private function configurePaymentPlan($id){
         //
     }
 }
