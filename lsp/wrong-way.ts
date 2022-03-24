@@ -3,25 +3,24 @@
 class Vehicle { 
     
     powerOn(): void {
-
+        return 'on';
     }
 
     powerOff(): void {
-
+        return 'off';
     }
 }
 
+//Right
 class Car extends Vehicle { 
     
-    powerOn(): void {
-
-    }
-
-    powerOff(): void {
-
-    }
+}
+//Right
+class Bus extends Vehicle { 
+    
 }
 
+//Wrong
 class Bike extends Vehicle {
     powerOn(): void {
         throw new Error('this vehicle dos not need to be started')
