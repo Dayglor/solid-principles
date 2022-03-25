@@ -2,7 +2,7 @@ interface Category {
 
 }
 
-class DramaCategorySolution implements Category {
+class DramaCategory implements Category {
 
 }
 
@@ -19,4 +19,4 @@ class Movie {
 
 }
 
-const movie = new Movie('LikeThisMovie', DramaCategorySolution);
+const movie = new Movie('LikeThisMovie', DramaCategory);
